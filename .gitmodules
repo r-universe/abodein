@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "netOmics"]
-	path = netOmics
-	url = https://github.com/abodein/netomics
-	shallow = true
-	registered = true
 [submodule "timeOmics"]
 	path = timeOmics
 	url = https://github.com/abodein/timeomics
