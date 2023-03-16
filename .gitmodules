@@ -13,8 +13,3 @@
 	url = https://github.com/abodein/timeomics
 	shallow = true
 	registered = true
-[submodule "lmms"]
-	path = lmms
-	url = https://github.com/cran/lmms
-	shallow = true
-	registered = false
